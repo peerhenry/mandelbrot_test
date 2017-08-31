@@ -1,0 +1,9 @@
+[package]
+name = "mandelbrot_test"
+version = "0.1.0"
+authors = ["peerhenry <peerhenry@gmail.com>"]
+
+[dependencies]
+num = "*"
+image = "*"
+time = "*"
